@@ -1,5 +1,5 @@
 # React study circle
-Learn React with rabbits!
+Learn React with bunnies!
 
 # Homework
-1. Intro component with sign-up form
+1. signup-form : Intro component with sign-up form
